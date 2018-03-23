@@ -102,3 +102,6 @@ ENV/
 
 # config
 config.py
+
+# pycharm
+.idea/
